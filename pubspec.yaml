@@ -31,7 +31,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_native_splash: ^2.2.19
-  google_fonts: ^4.0.4
+  google_fonts: ^6.2.1
 flutter_native_splash:
   color: "#ffffff"
   image: assets/icons/creativity.png
